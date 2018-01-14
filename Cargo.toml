@@ -1,0 +1,7 @@
+[package]
+name = "gel"
+version = "0.1.0"
+authors = ["Matthew Kennedy <burnsidemk@gmail.com>"]
+
+[dependencies]
+sdl2 = "0.31"

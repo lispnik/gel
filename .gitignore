@@ -3,3 +3,4 @@
 gel
 *.cachegrind
 *.callgrind
+target
